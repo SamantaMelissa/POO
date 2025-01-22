@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\obj\Debug\net8.0\IntroducaoAoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\obj\Debug\net8.0\IntroducaoAoPOO.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\obj\Debug\net8.0\IntroducaoAoPOO.AssemblyInfo.cs
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\obj\Debug\net8.0\IntroducaoAoPOO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\obj\Debug\net8.0\IntroducaoAoPOO.sourcelink.json
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\bin\Debug\net8.0\IntroducaoAoPOO.exe
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\bin\Debug\net8.0\IntroducaoAoPOO.deps.json
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\bin\Debug\net8.0\IntroducaoAoPOO.runtimeconfig.json
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\bin\Debug\net8.0\IntroducaoAoPOO.dll
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\bin\Debug\net8.0\IntroducaoAoPOO.pdb
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\obj\Debug\net8.0\IntroducaoAoPOO.dll
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\obj\Debug\net8.0\refint\IntroducaoAoPOO.dll
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\obj\Debug\net8.0\IntroducaoAoPOO.pdb
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\obj\Debug\net8.0\IntroducaoAoPOO.genruntimeconfig.cache
+C:\Users\admin\Desktop\CA_FULLST_DAC_241T01\IntroducaoAoPOO\obj\Debug\net8.0\ref\IntroducaoAoPOO.dll
