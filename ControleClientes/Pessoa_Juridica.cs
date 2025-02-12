@@ -16,6 +16,5 @@ namespace ControleClientes
             this.total = this.valor + this.valor_imposto;
         }
 
-
     }
 }

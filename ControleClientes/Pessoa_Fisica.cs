@@ -9,6 +9,5 @@ namespace ControleClientes
     {
         public string cpf;
         public string rg;
-        
     }
 }

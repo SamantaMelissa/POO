@@ -13,9 +13,9 @@ namespace ControleClientes
         public string endereco;
         // # => Moderador de acesso é PROTEGIDO
         // - => Moderador de acesso PRIVADO
-        protected float valor;
-        protected float valor_imposto;
-        protected float total;
+        public float valor {get; protected set;}
+        public float valor_imposto {get; protected set;}
+        public float total { get; protected set;}
 
         public virtual void Pagar_Imposto(float v){
             //valor informado da compra = 500
